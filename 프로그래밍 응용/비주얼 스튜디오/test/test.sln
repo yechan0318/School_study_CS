@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "별찍기", "별찍기\별찍기.vcxproj", "{A4E67A13-F768-4CC2-9B6D-71457DC87F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Debug|x64.ActiveCfg = Debug|x64
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Debug|x64.Build.0 = Debug|x64
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Debug|x86.ActiveCfg = Debug|Win32
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Debug|x86.Build.0 = Debug|Win32
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Release|x64.ActiveCfg = Release|x64
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Release|x64.Build.0 = Release|x64
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Release|x86.ActiveCfg = Release|Win32
+		{A4E67A13-F768-4CC2-9B6D-71457DC87F39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8C2A05-ED53-4C4F-8B82-C692CDB57F87}
+	EndGlobalSection
+EndGlobal
